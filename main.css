@@ -1,0 +1,20 @@
+html,
+body {
+   margin: 0;
+   height: 100%;
+}
+
+.point {
+   position: absolute;
+   background-color: black;
+   border-radius: 50%;
+   width: 3px;
+   height: 3px;
+}
+
+.circle {
+   position: absolute;
+   background: transparent;
+   border-radius: 50%;
+   border: 2px solid black;
+}
